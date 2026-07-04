@@ -57,3 +57,15 @@ This repository is intended for learning and interview preparation. Suggestions 
 
 ⭐ If you find this repository helpful, feel free to star it!
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0704-binary-search) |
+<!---LeetCode Topics End-->
