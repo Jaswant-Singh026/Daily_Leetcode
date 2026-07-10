@@ -63,6 +63,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0035-search-insert-position) |
@@ -87,4 +88,8 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0704-binary-search](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0704-binary-search) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
