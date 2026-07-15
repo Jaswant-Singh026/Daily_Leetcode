@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int canWesplit(vector<int>& nums, int maxSum, int maxSplit){
+    bool canWesplit(vector<int>& nums, int maxSum, int maxSplit){
         int split = 1;
         int curSum = 0;
         for(int i = 0; i < nums.size(); i++){
