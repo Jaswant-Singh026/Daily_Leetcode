@@ -129,4 +129,16 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0074-search-a-2d-matrix](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1901-find-a-peak-element-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
