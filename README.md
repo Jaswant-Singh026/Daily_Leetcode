@@ -64,6 +64,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -137,6 +138,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0796-rotate-string) |
@@ -148,4 +150,8 @@ This repository is intended for learning and interview preparation. Suggestions 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
