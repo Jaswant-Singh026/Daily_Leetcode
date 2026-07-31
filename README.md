@@ -107,6 +107,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -140,6 +141,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0796-rotate-string) |
