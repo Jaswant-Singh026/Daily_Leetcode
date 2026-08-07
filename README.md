@@ -204,4 +204,8 @@ This repository is intended for learning and interview preparation. Suggestions 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
