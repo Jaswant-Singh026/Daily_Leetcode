@@ -110,6 +110,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -210,6 +211,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0021-merge-two-sorted-lists](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
