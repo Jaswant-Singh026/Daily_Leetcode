@@ -177,6 +177,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0013-roman-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -208,6 +209,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -215,6 +217,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
