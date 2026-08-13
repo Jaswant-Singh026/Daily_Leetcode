@@ -107,6 +107,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -214,6 +215,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0206-reverse-linked-list) |
