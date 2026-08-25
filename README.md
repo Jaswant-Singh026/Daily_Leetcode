@@ -137,6 +137,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -249,6 +250,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
