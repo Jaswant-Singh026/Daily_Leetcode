@@ -122,6 +122,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0338-counting-bits](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -249,4 +250,5 @@ This repository is intended for learning and interview preparation. Suggestions 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
