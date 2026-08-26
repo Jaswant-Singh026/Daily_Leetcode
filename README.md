@@ -191,6 +191,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -250,6 +251,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0338-counting-bits) |
