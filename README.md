@@ -71,6 +71,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0035-search-insert-position](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0137-single-number-ii](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -252,6 +253,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0029-divide-two-integers) |
+| [0137-single-number-ii](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0338-counting-bits) |
