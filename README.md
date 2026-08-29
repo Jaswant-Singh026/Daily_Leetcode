@@ -194,6 +194,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0013-roman-to-integer](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -258,5 +259,6 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0268-missing-number](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0476-number-complement) |
+| [1486-xor-operation-in-an-array](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
