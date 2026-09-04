@@ -199,6 +199,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -261,4 +262,12 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0476-number-complement](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0476-number-complement) |
 | [1486-xor-operation-in-an-array](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
