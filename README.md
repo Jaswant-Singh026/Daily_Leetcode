@@ -200,6 +200,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -266,8 +267,10 @@ This repository is intended for learning and interview preparation. Suggestions 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
