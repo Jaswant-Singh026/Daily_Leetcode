@@ -163,6 +163,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0008-string-to-integer-atoi](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0205-isomorphic-strings) |
@@ -199,6 +200,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -220,6 +222,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Manacher
 |  |
