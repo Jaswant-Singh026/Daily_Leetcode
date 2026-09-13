@@ -152,6 +152,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0013-roman-to-integer) |
+| [0138-copy-list-with-random-pointer](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0242-valid-anagram) |
@@ -242,6 +243,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0021-merge-two-sorted-lists](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0234-palindrome-linked-list) |
