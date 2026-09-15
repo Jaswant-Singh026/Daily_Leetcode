@@ -69,6 +69,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0033-search-in-rotated-sorted-array](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0137-single-number-ii) |
@@ -114,6 +115,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0005-longest-palindromic-substring](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -125,6 +127,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0338-counting-bits](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Greedy
@@ -205,6 +208,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -288,6 +292,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
