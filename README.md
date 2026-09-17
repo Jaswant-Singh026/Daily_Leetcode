@@ -89,6 +89,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [1539-kth-missing-positive-number](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -220,6 +221,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0907-sum-of-subarray-minimums](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -299,4 +301,5 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0496-next-greater-element-i](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
