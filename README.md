@@ -76,6 +76,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0137-single-number-ii](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0162-find-peak-element) |
+| [0239-sliding-window-maximum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -232,6 +233,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -301,6 +303,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -315,8 +318,17 @@ This repository is intended for learning and interview preparation. Suggestions 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0735-asteroid-collision) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
