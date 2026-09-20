@@ -164,6 +164,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0013-roman-to-integer](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0268-missing-number) |
@@ -264,6 +265,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0061-rotate-list](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -296,6 +298,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -338,4 +341,8 @@ This repository is intended for learning and interview preparation. Suggestions 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0901-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
