@@ -85,6 +85,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0540-single-element-in-a-sorted-array](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0735-asteroid-collision) |
+| [0904-fruit-into-baskets](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -171,6 +172,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0268-missing-number](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0496-next-greater-element-i) |
+| [0904-fruit-into-baskets](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
@@ -336,6 +338,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Monotonic Queue
 |  |
 | ------- |
