@@ -175,6 +175,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0451-sort-characters-by-frequency](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
@@ -195,6 +196,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0451-sort-characters-by-frequency](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -345,6 +347,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0239-sliding-window-maximum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Monotonic Queue
 |  |
 | ------- |
