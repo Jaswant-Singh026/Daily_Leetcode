@@ -88,6 +88,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0904-fruit-into-baskets](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -180,6 +181,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0496-next-greater-element-i](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -262,6 +264,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Bracket Sequences
 |  |
@@ -355,6 +358,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0424-longest-repeating-character-replacement](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Monotonic Queue
