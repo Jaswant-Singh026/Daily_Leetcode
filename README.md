@@ -87,6 +87,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0735-asteroid-collision](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0930-binary-subarrays-with-sum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -147,6 +148,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -175,6 +177,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0451-sort-characters-by-frequency](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
@@ -347,6 +350,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0239-sliding-window-maximum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Monotonic Queue
 |  |
