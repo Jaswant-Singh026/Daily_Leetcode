@@ -89,6 +89,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0907-sum-of-subarray-minimums](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -149,6 +150,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -178,6 +180,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0496-next-greater-element-i](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
@@ -224,6 +227,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0013-roman-to-integer](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0268-missing-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1486-xor-operation-in-an-array](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -351,6 +355,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0424-longest-repeating-character-replacement](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Monotonic Queue
 |  |
