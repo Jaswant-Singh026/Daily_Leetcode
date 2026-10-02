@@ -136,6 +136,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0338-counting-bits](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -194,6 +195,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0013-roman-to-integer](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -270,6 +272,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Manacher
 |  |
@@ -373,4 +376,8 @@ This repository is intended for learning and interview preparation. Suggestions 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0146-lru-cache) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
