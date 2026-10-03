@@ -235,6 +235,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [1248-count-number-of-nice-subarrays](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1486-xor-operation-in-an-array](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1922-count-good-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -305,6 +306,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0050-powx-n](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/1922-count-good-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
