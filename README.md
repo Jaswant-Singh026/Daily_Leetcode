@@ -73,6 +73,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0040-combination-sum-ii](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0137-single-number-ii](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0137-single-number-ii) |
@@ -317,6 +318,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0268-missing-number) |
@@ -388,4 +390,5 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0022-generate-parentheses](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
