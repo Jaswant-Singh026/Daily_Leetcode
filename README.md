@@ -144,6 +144,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0005-longest-palindromic-substring](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0042-trapping-rain-water) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -418,6 +419,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0100-same-tree](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -437,6 +439,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0102-binary-tree-level-order-traversal](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -448,6 +451,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0102-binary-tree-level-order-traversal](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -460,5 +464,6 @@ This repository is intended for learning and interview preparation. Suggestions 
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
