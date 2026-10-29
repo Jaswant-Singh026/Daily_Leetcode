@@ -78,6 +78,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0079-word-search](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0137-single-number-ii](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0162-find-peak-element) |
@@ -166,6 +167,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0190-reverse-bits](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
@@ -184,6 +186,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0146-lru-cache) |
@@ -451,6 +454,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0102-binary-tree-level-order-traversal](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -472,6 +476,7 @@ This repository is intended for learning and interview preparation. Suggestions 
 | [0102-binary-tree-level-order-traversal](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jaswant-Singh026/Daily_Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
